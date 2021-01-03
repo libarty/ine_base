@@ -15,9 +15,4 @@ These files include: Icons, Fonts, Documentation, Rules for using the program, C
 I'm not a  artist or a programmer
 i just want my ideas were real
 if you want you can help me
-[Navigation map](https://github.com/libarty/ine_base/en/System/Navigation_map)
-
-
-
-
-
+[Navigation map](https://github.com/libarty/ine_base/tree/master/en/System/Navigation_map)

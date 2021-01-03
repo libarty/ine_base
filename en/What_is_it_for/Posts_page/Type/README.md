@@ -14,7 +14,7 @@ Paid
 	This type is not available for anonymous posts. 
 	After the expiration date, the post is automatically changed to [Public]. Maximum term 1 year
 Trash
-	This type of post is placed if the post violates [community rules](https://github.com/libarty/ine_base/en/How_it_is_supposed_to_work/User/Rules). 
+	This type of post is placed if the post violates [community rules](https://github.com/libarty/ine_base/tree/master/en/How_it_is_supposed_to_work/User/Rules). 
 	This post can only be seen by Administration and Critics.
 	Files are not saved to cloud storage.
 	Preview is disabled.

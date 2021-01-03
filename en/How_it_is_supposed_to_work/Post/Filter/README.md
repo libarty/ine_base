@@ -13,29 +13,32 @@ The program is not responsible for your publication.
 
 People are contradictory creatures and sometimes they allow this or that action as an exception to the rule.
 Censored 
+
 Exception is allows for content demonstration but only in censored form
-Male
-some people perceive male nudity more easily than female
-LGBT
-	Exception is allows any kind of connection associated with the LGBT community or non-generic connections
-	Example:
-		yaoi
-		yuri
-		trap
-		fetishism
-		incest
-Is not allowed[INA]
-	Exception is allows affair with those who are not able to give their consent or are clearly against it
-	Example:
-		rape
-		zoophilia
-		furry
-		monster_girl
-		necrophilia
-		lolicon
-		shotacon
+
+	Male
+		some people perceive male nudity more easily than female
+	LGBT
+		Exception is allows any kind of connection associated with the LGBT community or non-generic connections
+		Example:
+			yaoi
+			yuri
+			trap
+			fetishism
+			incest
+	Is not allowed[INA]
+		Exception is allows affair with those who are not able to give their consent or are clearly against it
+		Example:
+			rape
+			zoophilia
+			furry
+			monster_girl
+			necrophilia
+			lolicon
+			shotacon
 
 Filters:
+
 	Obsession[obsession][obs]
 		Exception:Censored	
 		1:O:None      

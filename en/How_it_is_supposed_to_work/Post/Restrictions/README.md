@@ -9,5 +9,5 @@ Each user can only do 100 operations in 10 seconds
 This is necessary to protect servers from overload.
 
 Statistics are linked to each user
-Only one rating for each post. More info [here](https://github.com/libarty/ine_base/en/What_is_it_for/Posts_page/Statistics)
+Only one rating for each post. More info [here](https://github.com/libarty/ine_base/tree/master/en/What_is_it_for/Posts_page/Statistics)
 This is necessary to combat statistics cheating.

@@ -5,14 +5,14 @@ When you submit a post, all content is converted to the appropriate format.
 The default is the lightest format.
 All files are wrapped in a .zip archive to reduce size and better file handling
 Many files can include several different formats combined into a new format
-Be very careful when choosing a format. Especially those who post comics or videos. If the format is incorrect, then the post will go to the [Trash](https://github.com/libarty/ine_base/en/What_is_it_for/Posts_page/Type) category
+Be very careful when choosing a format. Especially those who post comics or videos. If the format is incorrect, then the post will go to the [Trash](https://github.com/libarty/ine_base/tree/master/en/What_is_it_for/Posts_page/Type) category
 Parameters:
 	Name-Conditional name characterizing its format
 	Tags-Indicates a data type and its features can include several different data types
 	Player-The program that displays the received files. Users can create their own players as add-ons to the program. If the addon is popular, it can be enabled as an addon by default. If several players work for the same format, then you can switch between them.
 	Tools-Tools to edit the file
 	Format-File formats that can be converted. Symbol "->" shows the format with which the player works
-	Auto Filter-Automatically sets censorship. More info [here](https://github.com/libarty/ine_base/en/How_it_is_supposed_to_work/Post/Filter)
+	Auto Filter-Automatically sets censorship. More info [here](https://github.com/libarty/ine_base/tree/master/en/How_it_is_supposed_to_work/Post/Filter)
 	Auto Cut text-The program to automatically cut text from a file for fast translation
 	Some-Means that there are several files in the data array
 	Mix-Means that the data array combines different file formats

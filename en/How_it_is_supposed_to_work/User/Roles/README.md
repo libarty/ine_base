@@ -21,7 +21,7 @@ There are several roles in our program with their own benefits and responsibilit
 		Create posts
 		Add to bookmarks
 		Rate posts like [User]
-		Write a [Comment](https://github.com/libarty/ine_base/en/What_is_it_for/Posts_page/Comments)
+		Write a [Comment](https://github.com/libarty/ine_base/tree/master/en/What_is_it_for/Posts_page/Comments)
 		Use regular search
 		Subscribe to users
 		Add users in black list
@@ -45,15 +45,15 @@ There are several roles in our program with their own benefits and responsibilit
 		Create posts
 		Add to bookmarks
 		Rate posts like [User]
-		Write a [Comment](https://github.com/libarty/ine_base/en/What_is_it_for/Posts_page/Comments)
+		Write a [Comment](https://github.com/libarty/ine_base/tree/master/en/What_is_it_for/Posts_page/Comments)
 		Use regular search
 		Subscribe to users
 		Add users in black list
 		Rate posts like [Critic]
-		Change post type to [Black Horse](https://github.com/libarty/ine_base/en/What_is_it_for/Posts_page/Type)
-		Change [tag cloud](https://github.com/libarty/ine_base/en/What_is_it_for/Posts_page/Tags)
+		Change post type to [Black Horse](https://github.com/libarty/ine_base/tree/master/en/What_is_it_for/Posts_page/Type)
+		Change [tag cloud](https://github.com/libarty/ine_base/tree/master/en/What_is_it_for/Posts_page/Tags)
 		Change the source of the post
-		Change the block of [Same](https://github.com/libarty/ine_base/en/What_is_it_for/Posts_page/Mini_posts_block) posts
+		Change the block of [Same](https://github.com/libarty/ine_base/tree/master/en/What_is_it_for/Posts_page/Mini_posts_block) posts
 		Edit file
 		Add translation files to other languages 
 		Use advanced search
@@ -66,7 +66,7 @@ There are several roles in our program with their own benefits and responsibilit
 		Send spam in comments 
 		To incorrectly indicate the source and tags
 		To choose the wrong file format when publishing
-		To incorrectly indicate [Same posts](https://github.com/libarty/ine_base/en/What_is_it_for/Posts_page/Mini_posts_block)
+		To incorrectly indicate [Same posts](https://github.com/libarty/ine_base/tree/master/en/What_is_it_for/Posts_page/Mini_posts_block)
 		To rate posts for money
 		To write a paid comment
 		To conspire
@@ -86,17 +86,17 @@ There are several roles in our program with their own benefits and responsibilit
 		Create posts
 		Add to bookmarks
 		Rate posts like [User]
-		Write a [comment](https://github.com/libarty/ine_base/en/What_is_it_for/Posts_page/Comments)
+		Write a [comment](https://github.com/libarty/ine_base/tree/master/en/What_is_it_for/Posts_page/Comments)
 		Use regular search
 		Subscribe to users
 		Add users in black list
  
 
 		Rate posts like [Critic]
-		Change post type to [Black Horse](https://github.com/libarty/ine_base/en/What_is_it_for/Posts_page/Type)
-		Change [tag cloud](https://github.com/libarty/ine_base/en/What_is_it_for/Posts_page/Tags)
+		Change post type to [Black Horse](https://github.com/libarty/ine_base/tree/master/en/What_is_it_for/Posts_page/Type)
+		Change [tag cloud](https://github.com/libarty/ine_base/tree/master/en/What_is_it_for/Posts_page/Tags)
 		Change the source of the post
-		Change the block of [Same](https://github.com/libarty/ine_base/en/What_is_it_for/Posts_page/Mini_posts_block) posts
+		Change the block of [Same](https://github.com/libarty/ine_base/tree/master/en/What_is_it_for/Posts_page/Mini_posts_block) posts
 		Edit file
 		Add translation files to other languages 
 		Use advanced search
