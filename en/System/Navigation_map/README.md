@@ -6,6 +6,7 @@ Test version on the heroku
 
 
 News
+
 Once a week I publish a progress report
 
 [facebook](https://www.facebook.com/groups/2442060342589885/)
@@ -16,23 +17,31 @@ Once a week I publish a progress report
 
 
 Chats
+
 You can contact me by writing to chat
+
 I check it once a week
 
 [discord](https://discord.gg/w4aHRSb)
 
 
 Tutorials
+
 On YouTube I publish educational material about the program
+
 The version on the video is old made in wordpress
+
 Some functions can be changed in django version
 
 [youTube](https://www.youtube.com/channel/UC1D83TnfNHZf4b3zJ_mnmBw/videos)
 
 
 Money
+
 You can help us financially
+
 If I have the money I can hire more professional programmers
+
 create creative contests and more
 
 Webmoney
@@ -42,6 +51,7 @@ Z291492150130
 
 
 Github
+
 List of all my repositories
 
 [ine_client](https://github.com/libarty/ine_client)
@@ -52,7 +62,9 @@ List of all my repositories
 
 
 Illustrations
+
 This is where I keep my works
+
 In the future, I will transfer them to the program along with the rest of the test content.
 
 [deviantart](https://www.deviantart.com/libarty-d/gallery)
